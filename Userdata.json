@@ -12,8 +12,14 @@
         "Allowoffline": false
     },
     {
+        "device_id": "device457",
+        "key": "mr-begonat32",
+        "expirydate": "1-12-2026",
+        "Allowoffline": false
+    },
+       {
         "device_id": "aa249b2b35ca7705",
-        "key": "mr_begonat12",
+        "key": "mr-begonat32",
         "expirydate": "1-12-2026",
         "Allowoffline": false
     }
