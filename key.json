@@ -5,9 +5,7 @@
     "admin_url": "https://t.me/example",
     "banner_url": "",
     "maintenance": false,
-    "banned_devices": [
-      "90a5aec278d550f3"
-    ]
+    "banned_devices": []
   },
   "keys": {
     "90A5AEC278D550F3": {
