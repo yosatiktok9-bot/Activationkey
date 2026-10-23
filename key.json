@@ -7,15 +7,5 @@
     "maintenance": false,
     "banned_devices": []
   },
-  "keys": {
-    "DP-VIP-101": {
-      "status": "approved",
-      "expiry_date": "2026-12-31",
-      "max_devices": 1,
-      "hwid": [
-        "your_device_id_here",
-        "another_device_id_here"
-      ]
-    }
-  }
+  "keys": {}
 }
