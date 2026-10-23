@@ -9,5 +9,14 @@
       "90a5aec278d550f3"
     ]
   },
-  "keys": {}
+  "keys": {
+    "90A5AEC278D550F3": {
+      "status": "approved",
+      "expiry_date": "2027-01-23",
+      "max_devices": 1,
+      "hwid": [
+        "eyoba"
+      ]
+    }
+  }
 }
