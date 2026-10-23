@@ -17,6 +17,12 @@
       "hwid": [
         "vhjiiiiu"
       ]
+    },
+    "VHJIIIIU": {
+      "status": "approved",
+      "expiry_date": "2027-01-23",
+      "max_devices": 1,
+      "hwid": []
     }
   }
 }
