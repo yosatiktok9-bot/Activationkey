@@ -2,19 +2,17 @@
   "settings": {
     "title": "PREMIUM ACCESS",
     "subtitle": "Copy your Device ID and send it to Admin.",
-    "admin_url": "https://t.me/B00oot",
-    "banner_url": "https://i.imgur.com/K3yZ8vN.jpg",
+    "admin_url": "https://t.me/example",
+    "banner_url": "",
     "maintenance": false,
     "banned_devices": []
   },
   "keys": {
     "90A5AEC278D550F3": {
       "status": "approved",
-      "expiry_date": "2026-11-23",
+      "expiry_date": "2027-01-23",
       "max_devices": 1,
-      "hwid": [
-        "device_id_12"
-      ]
+      "hwid": []
     }
   }
 }
