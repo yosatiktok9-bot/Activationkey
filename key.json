@@ -5,7 +5,9 @@
     "admin_url": "https://t.me/B00oot",
     "banner_url": "https://i.imgur.com/K3yZ8vN.jpg",
     "maintenance": false,
-    "banned_devices": []
+    "banned_devices": [
+      "black_id-12"
+    ]
   },
   "keys": {
     "90A5AEC278D550F3": {
