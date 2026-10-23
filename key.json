@@ -11,8 +11,10 @@
     "90A5AEC278D550F3": {
       "status": "approved",
       "expiry_date": "2027-01-23",
-      "max_devices": 1,
-      "hwid": []
+      "max_devices": 2,
+      "hwid": [
+        "black_id-12"
+      ]
     }
   }
 }
