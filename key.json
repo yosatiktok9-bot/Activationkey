@@ -13,7 +13,8 @@
       "expiry_date": "2027-01-23",
       "max_devices": 1,
       "hwid": [
-        "block-1"
+        "block-1",
+        "90a5aec278d550f3"
       ]
     }
   }
