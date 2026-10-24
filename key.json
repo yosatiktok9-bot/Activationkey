@@ -6,7 +6,7 @@
     "banner_url": "https://t.me/mrunkown88/2117",
     "maintenance": true,
     "banned_devices": [],
-    "allow_offline": true
+    "allow_offline": false
   },
   "keys": {
     "Z-SECRET-FOR-YOSEF": {
