@@ -5,7 +5,9 @@
     "admin_url": "https://t.me/B00oot",
     "banner_url": "https://i.imgur.com/K3yZ8vN.jpg",
     "maintenance": false,
-    "banned_devices": []
+    "banned_devices": [
+      "90a5aec278d550f3"
+    ]
   },
   "keys": {
     "DP-N639P3": {
