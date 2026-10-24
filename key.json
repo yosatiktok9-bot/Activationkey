@@ -9,14 +9,5 @@
       "90a5aec278d550f3"
     ]
   },
-  "keys": {
-    "DP-RQT52P": {
-      "status": "approved",
-      "expiry_date": "2027-01-24",
-      "max_devices": 1,
-      "hwid": [
-        "90a5aec278d550f3"
-      ]
-    }
-  }
+  "keys": {}
 }
