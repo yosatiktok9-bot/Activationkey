@@ -5,15 +5,14 @@
     "admin_url": "https://t.me/B00oot",
     "banner_url": "https://t.me/mrunkown88/2117",
     "maintenance": false,
-    "allow_offline": false,
-    "banned_devices": []
+    "banned_devices": [],
+    "allow_offline": false
   },
   "keys": {
     "Z-SECRET-FOR-YOSEF": {
       "status": "approved",
       "expiry_date": "2027-01-24",
       "max_devices": 1,
-      "allow_offline": null,
       "hwid": [
         "8b2926dce5458847"
       ]
@@ -22,10 +21,10 @@
       "status": "approved",
       "expiry_date": "2027-01-24",
       "max_devices": 1,
-      "allow_offline": null,
       "hwid": [
         "8f7685e9adda1d2b"
-      ]
+      ],
+      "allow_offline": true
     }
   }
 }
