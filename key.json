@@ -20,9 +20,7 @@
       "status": "approved",
       "expiry_date": "2027-01-24",
       "max_devices": 1,
-      "hwid": [
-        "8f7685e9adda1d2b"
-      ]
+      "hwid": []
     }
   }
 }
