@@ -4,9 +4,9 @@
     "subtitle": "Copy your Device ID and send it to Admin.",
     "admin_url": "https://t.me/B00oot",
     "banner_url": "https://t.me/mrunkown88/2117",
-    "maintenance": false,
+    "maintenance": true,
     "banned_devices": [],
-    "allow_offline": false
+    "allow_offline": true
   },
   "keys": {
     "Z-SECRET-FOR-YOSEF": {
