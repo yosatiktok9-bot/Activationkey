@@ -23,6 +23,14 @@
       "hwid": [
         "90a5aec278d550f2"
       ]
+    },
+    "Z-SECRET-FOR-YOSEF": {
+      "status": "approved",
+      "expiry_date": "2027-01-24",
+      "max_devices": 1,
+      "hwid": [
+        "8b2926dce5458847"
+      ]
     }
   }
 }
