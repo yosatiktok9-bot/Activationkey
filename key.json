@@ -5,24 +5,16 @@
     "admin_url": "https://t.me/B00oot",
     "banner_url": "https://i.imgur.com/K3yZ8vN.jpg",
     "maintenance": false,
-    "banned_devices": [
-      "vhjiiiiu"
-    ]
+    "banned_devices": []
   },
   "keys": {
-    "90A5AEC278D550F3": {
+    "DP-N639P3": {
       "status": "approved",
-      "expiry_date": "2027-01-23",
+      "expiry_date": "2027-01-24",
       "max_devices": 1,
       "hwid": [
-        "vhjiiiiu"
+        "90a5aec278d550f3"
       ]
-    },
-    "VHJIIIIU": {
-      "status": "approved",
-      "expiry_date": "2027-01-23",
-      "max_devices": 1,
-      "hwid": []
     }
   }
 }
