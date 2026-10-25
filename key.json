@@ -26,6 +26,15 @@
         "8f7685e9adda1d2b"
       ],
       "allow_offline": true
+    },
+    "DP-PMKSM2": {
+      "status": "approved",
+      "expiry_date": "2027-01-25",
+      "max_devices": 1,
+      "hwid": [
+        "90a5aec278d550f3"
+      ],
+      "allow_offline": true
     }
   }
 }
