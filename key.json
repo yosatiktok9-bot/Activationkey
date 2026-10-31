@@ -26,6 +26,15 @@
         "90a5aec278d550f3"
       ],
       "allow_offline": true
+    },
+    "ABRHAM-BALO-GALAXY-EXAM": {
+      "status": "approved",
+      "expiry_date": "2027-01-31",
+      "max_devices": 1,
+      "hwid": [
+        "014c74c426888956"
+      ],
+      "allow_offline": true
     }
   }
 }
