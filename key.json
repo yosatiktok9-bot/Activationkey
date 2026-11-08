@@ -44,6 +44,15 @@
         "90a5aec278d550f3"
       ],
       "allow_offline": true
+    },
+    "HAWI-Z-SECRET-TEST-APP": {
+      "status": "approved",
+      "expiry_date": "2027-02-08",
+      "max_devices": 1,
+      "hwid": [
+        "3c86a9331781549a"
+      ],
+      "allow_offline": true
     }
   }
 }
