@@ -37,7 +37,7 @@
       "allow_offline": true
     },
     "HAWI-Z-SECRET-TEST-APP": {
-      "status": "denied",
+      "status": "approved",
       "expiry_date": "2027-02-08",
       "max_devices": 1,
       "hwid": [
