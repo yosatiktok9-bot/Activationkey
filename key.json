@@ -5,9 +5,7 @@
     "admin_url": "https://t.me/B00oot",
     "banner_url": "https://imgur.com/LdKpWCN",
     "maintenance": false,
-    "banned_devices": [
-      "3c86a9331781549a"
-    ],
+    "banned_devices": [],
     "allow_offline": false
   },
   "keys": {
