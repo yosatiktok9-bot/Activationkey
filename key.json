@@ -53,6 +53,15 @@
         "8f7685e9adda1d2b"
       ],
       "allow_offline": true
+    },
+    "Z-SECRET-HAILE-TEST-APP": {
+      "status": "approved",
+      "expiry_date": "2027-02-10",
+      "max_devices": 1,
+      "hwid": [
+        "9a08dbbfc45d9f55"
+      ],
+      "allow_offline": true
     }
   }
 }
