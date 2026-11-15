@@ -62,6 +62,15 @@
         "9a08dbbfc45d9f55"
       ],
       "allow_offline": true
+    },
+    "MULALEM-Z-SECRET-TEST": {
+      "status": "approved",
+      "expiry_date": "2099-12-31",
+      "max_devices": 1,
+      "hwid": [
+        "338ff8ee6346875b"
+      ],
+      "allow_offline": true
     }
   }
 }
