@@ -71,6 +71,15 @@
         "338ff8ee6346875b"
       ],
       "allow_offline": true
+    },
+    "KIDST-Z-SCRET-TEST-APP": {
+      "status": "approved",
+      "expiry_date": "2027-02-16",
+      "max_devices": 1,
+      "hwid": [
+        "28f329c9bca687c9"
+      ],
+      "allow_offline": true
     }
   }
 }
