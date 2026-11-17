@@ -80,6 +80,15 @@
         "28f329c9bca687c9"
       ],
       "allow_offline": true
+    },
+    "KIDSIT-EXAM-GGALAXY-APP": {
+      "status": "approved",
+      "expiry_date": "2099-12-31",
+      "max_devices": 1,
+      "hwid": [
+        "0faed9d63a787b72"
+      ],
+      "allow_offline": true
     }
   }
 }
