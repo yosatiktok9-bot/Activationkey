@@ -89,6 +89,14 @@
         "0faed9d63a787b72"
       ],
       "allow_offline": true
+    },
+    "DP-WQS27N": {
+      "status": "approved",
+      "expiry_date": "2027-02-20",
+      "max_devices": 1,
+      "hwid": [
+        "90a5aec278d550f3"
+      ]
     }
   }
 }
