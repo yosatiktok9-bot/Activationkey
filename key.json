@@ -97,6 +97,15 @@
       "hwid": [
         "90a5aec278d550f3"
       ]
+    },
+    "KALKIDAN-Z-SECRET-TEST-APP": {
+      "status": "approved",
+      "expiry_date": "2099-12-31",
+      "max_devices": 1,
+      "hwid": [
+        "fd91df26d93b4ab1"
+      ],
+      "allow_offline": true
     }
   }
 }
