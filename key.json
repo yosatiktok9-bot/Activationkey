@@ -47,7 +47,7 @@
     },
     "EXAM-GALAXY-YOSEF": {
       "status": "approved",
-      "expiry_date": "2025-02-09",
+      "expiry_date": "2099-12-31",
       "max_devices": 1,
       "hwid": [
         "8f7685e9adda1d2b"
