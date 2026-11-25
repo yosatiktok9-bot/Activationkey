@@ -69,18 +69,6 @@
       "price": 1000000000,
       "note": "ወዳጄ   የችግር   ግዜ ጎድ"
     },
-    "MULALEM-Z-SECRET-TEST": {
-      "status": "approved",
-      "expiry_date": "2099-12-31",
-      "max_devices": 1,
-      "hwid": [
-        "338ff8ee6346875b"
-      ],
-      "allow_offline": true,
-      "buyer_name": "",
-      "price": 0,
-      "note": ""
-    },
     "KIDST-Z-SCRET-TEST-APP": {
       "status": "approved",
       "expiry_date": "2027-02-16",
