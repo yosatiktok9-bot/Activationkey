@@ -16,7 +16,10 @@
       "hwid": [
         "90a5aec278d550f3"
       ],
-      "allow_offline": true
+      "allow_offline": true,
+      "buyer_name": "",
+      "price": 0,
+      "note": ""
     },
     "ABRHAM-BALO-GALAXY-EXAM": {
       "status": "approved",
@@ -25,7 +28,10 @@
       "hwid": [
         "014c74c426888956"
       ],
-      "allow_offline": true
+      "allow_offline": true,
+      "buyer_name": "",
+      "price": 0,
+      "note": ""
     },
     "Z-SSECRET_YOSEF_NEW": {
       "status": "approved",
@@ -34,7 +40,10 @@
       "hwid": [
         "90a5aec278d550f3"
       ],
-      "allow_offline": true
+      "allow_offline": true,
+      "buyer_name": "",
+      "price": 0,
+      "note": ""
     },
     "HAWI-Z-SECRET-TEST-APP": {
       "status": "approved",
@@ -43,7 +52,10 @@
       "hwid": [
         "3c86a9331781549a"
       ],
-      "allow_offline": true
+      "allow_offline": true,
+      "buyer_name": "",
+      "price": 0,
+      "note": ""
     },
     "EXAM-GALAXY-YOSEF": {
       "status": "approved",
@@ -52,7 +64,10 @@
       "hwid": [
         "8f7685e9adda1d2b"
       ],
-      "allow_offline": true
+      "allow_offline": true,
+      "buyer_name": "",
+      "price": 0,
+      "note": ""
     },
     "Z-SECRET-HAILE-TEST-APP": {
       "status": "approved",
@@ -61,7 +76,10 @@
       "hwid": [
         "9a08dbbfc45d9f55"
       ],
-      "allow_offline": true
+      "allow_offline": true,
+      "buyer_name": "",
+      "price": 0,
+      "note": ""
     },
     "MULALEM-Z-SECRET-TEST": {
       "status": "approved",
@@ -70,7 +88,10 @@
       "hwid": [
         "338ff8ee6346875b"
       ],
-      "allow_offline": true
+      "allow_offline": true,
+      "buyer_name": "",
+      "price": 0,
+      "note": ""
     },
     "KIDST-Z-SCRET-TEST-APP": {
       "status": "approved",
@@ -79,7 +100,10 @@
       "hwid": [
         "28f329c9bca687c9"
       ],
-      "allow_offline": true
+      "allow_offline": true,
+      "buyer_name": "",
+      "price": 0,
+      "note": ""
     },
     "KIDSIT-EXAM-GGALAXY-APP": {
       "status": "approved",
@@ -88,7 +112,10 @@
       "hwid": [
         "0faed9d63a787b72"
       ],
-      "allow_offline": true
+      "allow_offline": true,
+      "buyer_name": "",
+      "price": 0,
+      "note": ""
     },
     "DP-WQS27N": {
       "status": "approved",
@@ -96,7 +123,11 @@
       "max_devices": 1,
       "hwid": [
         "90a5aec278d550f3"
-      ]
+      ],
+      "allow_offline": true,
+      "buyer_name": "",
+      "price": 0,
+      "note": ""
     },
     "KALKIDAN-Z-SECRET-TEST-APP": {
       "status": "approved",
@@ -105,7 +136,10 @@
       "hwid": [
         "fd91df26d93b4ab1"
       ],
-      "allow_offline": true
+      "allow_offline": true,
+      "buyer_name": "",
+      "price": 0,
+      "note": ""
     },
     "DAWIT-Z-SECRET": {
       "status": "approved",
@@ -114,7 +148,10 @@
       "hwid": [
         "6b7543ce6e64e6a7"
       ],
-      "allow_offline": true
+      "allow_offline": true,
+      "buyer_name": "",
+      "price": 0,
+      "note": ""
     },
     "NAHOM_GIRUM_Z_SECRET": {
       "status": "approved",
@@ -123,7 +160,10 @@
       "hwid": [
         "443f9fd120bddcb1"
       ],
-      "allow_offline": true
+      "allow_offline": true,
+      "buyer_name": "",
+      "price": 0,
+      "note": ""
     }
   }
 }
