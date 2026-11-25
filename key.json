@@ -93,18 +93,6 @@
       "price": 800,
       "note": "exam galaxy   በአንድላይ ነው የገዛችው"
     },
-    "DP-WQS27N": {
-      "status": "approved",
-      "expiry_date": "2027-02-20",
-      "max_devices": 1,
-      "hwid": [
-        "90a5aec278d550f3"
-      ],
-      "allow_offline": true,
-      "buyer_name": "",
-      "price": 0,
-      "note": ""
-    },
     "KALKIDAN-Z-SECRET-TEST-APP": {
       "status": "approved",
       "expiry_date": "2099-12-31",
