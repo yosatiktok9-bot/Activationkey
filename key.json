@@ -106,6 +106,15 @@
         "fd91df26d93b4ab1"
       ],
       "allow_offline": true
+    },
+    "DAWIT-Z-SECRET": {
+      "status": "approved",
+      "expiry_date": "2027-02-25",
+      "max_devices": 1,
+      "hwid": [
+        "6b7543ce6e64e6a7"
+      ],
+      "allow_offline": true
     }
   }
 }
