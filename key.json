@@ -115,6 +115,15 @@
         "6b7543ce6e64e6a7"
       ],
       "allow_offline": true
+    },
+    "NAHOM_GIRUM_Z_SECRET": {
+      "status": "approved",
+      "expiry_date": "2027-02-25",
+      "max_devices": 1,
+      "hwid": [
+        "443f9fd120bddcb1"
+      ],
+      "allow_offline": true
     }
   }
 }
