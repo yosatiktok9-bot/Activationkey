@@ -94,7 +94,7 @@
       "note": "exam galaxy   በአንድላይ ነው የገዛችው"
     },
     "DAWIT-Z-SECRET": {
-      "status": "approved",
+      "status": "denied",
       "expiry_date": "2027-02-25",
       "max_devices": 1,
       "hwid": [
