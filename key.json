@@ -82,7 +82,7 @@
       "note": "z secret and exam galaxy በ ሽያጭ"
     },
     "KIDSIT-EXAM-GGALAXY-APP": {
-      "status": "approved",
+      "status": "denied",
       "expiry_date": "2099-12-31",
       "max_devices": 1,
       "hwid": [
