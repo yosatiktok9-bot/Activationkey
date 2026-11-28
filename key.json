@@ -104,18 +104,6 @@
       "buyer_name": "",
       "price": 0,
       "note": ""
-    },
-    "NAHOM_GIRUM_Z_SECRET": {
-      "status": "approved",
-      "expiry_date": "2027-02-25",
-      "max_devices": 1,
-      "hwid": [
-        "443f9fd120bddcb1"
-      ],
-      "allow_offline": true,
-      "buyer_name": "Nahom",
-      "price": 2000,
-      "note": "@MyDoht\nz secret  ገዚ ነው"
     }
   }
 }
