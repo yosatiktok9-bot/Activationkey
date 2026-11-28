@@ -70,7 +70,7 @@
       "note": "ወዳጄ   የችግር   ግዜ ጎድ"
     },
     "KIDST-Z-SCRET-TEST-APP": {
-      "status": "approved",
+      "status": "denied",
       "expiry_date": "2027-02-16",
       "max_devices": 1,
       "hwid": [
